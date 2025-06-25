@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Sunnat Khudoykulov
 
-<!--
-**SunnatKh07/SunnatKh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi all! My name is Sunnat, I'm studying to become a FrontEnd developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<H1>Languages and Tools</H1>
+<img src="https://img.shields.io/badge/Python-3454AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
+## 📞 Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Istam_ake)
+
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=SunnatKh07&theme=onedark)](https://github.com/SunnatKh07/github-profile-trophy)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatKh07&layout=compact&theme=cobalt&hide_border=true" />
+
