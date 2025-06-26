@@ -25,4 +25,4 @@ Hi all! My name is Sunnat, I'm studying to become a FrontEnd developer.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📞 Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Istam_ake)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mayakovsk1yy)
