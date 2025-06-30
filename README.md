@@ -2,8 +2,7 @@
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J6dm11NGo3NmJvMTM0NnFjcGN2cGNucndwMWdqaHNvdThoeW9sOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="code typing gif" />
 </div>
-Hi all! My name is Sunnat, I'm a FrontEnd Developer.
-
+Hi all!, I'm a FrontEnd Developer.
 -----------------------------------------------------------------------------
 
 # 💻 Tech Stack:
