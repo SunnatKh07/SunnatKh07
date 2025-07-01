@@ -1,7 +1,7 @@
 # 👨‍💻 Sunnat Khudoykulov
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J6dm11NGo3NmJvMTM0NnFjcGN2cGNucndwMWdqaHNvdThoeW9sOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="code typing gif" />
-</div>
+
 Hi all!, I'm a FrontEnd Developer.
 -----------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Hi all!, I'm a FrontEnd Developer.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SunnatKh07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=SunnatKh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
